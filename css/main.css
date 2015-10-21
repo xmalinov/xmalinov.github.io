@@ -102,3 +102,35 @@ body {
 .email a:hover {
     color: #03A9F4;
 }
+
+.contact-icons {
+    text-align: center;
+    margin: 20px 0 0;
+}
+
+.contact-icons i {
+    cursor: pointer;
+    vertical-align: middle;
+    margin: 0 10px;
+    font-size: 28px;
+}
+
+.contact-icons a i {
+    color: #212121;
+}
+
+.contact-icons a i.fa-github:hover {
+    color: #03A9F4;
+}
+
+.contact-icons a i.fa-facebook:hover {
+    color: #3B5998;
+}
+
+.contact-icons a i.fa-linkedin:hover {
+    color: #007bb6;
+}
+
+.contact-icons a i.fa-vk:hover {
+    color: #45668e;
+}
