@@ -134,3 +134,10 @@ body {
 .contact-icons a i.fa-vk:hover {
     color: #45668e;
 }
+.contact-icons a i.fa-twitter:hover {
+    color: #55acee;
+}
+
+.contact-icons a i.fa-skype:hover {
+    color: #00aff0;
+}
