@@ -1,0 +1,17 @@
+/* TEAM */
+Developer: Alexander Malinov
+Site: http://xmalinov.github.io/
+Twitter: @xmalinov
+Location: Yaroslavl, Russia
+
+/* THANKS */
+Name: -
+
+/* SITE */
+Last update: 23.10.2015
+Standards: -
+Components: -
+Software: -
+Site Name: xmalinov.github.io
+Site URL: http://xmalinov.github.io/
+Language: English
