@@ -29,6 +29,7 @@ body {
     position: relative;
     top: 50%;
     -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     width: 100%;
 }
@@ -134,6 +135,7 @@ body {
 .contact-icons a i.fa-vk:hover {
     color: #45668e;
 }
+
 .contact-icons a i.fa-twitter:hover {
     color: #55acee;
 }

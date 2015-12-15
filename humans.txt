@@ -8,7 +8,7 @@ Location: Yaroslavl, Russia
 Name: -
 
 /* SITE */
-Last update: 23.10.2015
+Last update: 16.12.2015
 Standards: -
 Components: -
 Software: -
